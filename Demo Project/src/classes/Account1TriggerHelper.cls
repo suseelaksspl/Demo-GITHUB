@@ -1,4 +1,5 @@
 /* Sample to add code to GIT */
+/* collaberation with the team */
 public class Account1TriggerHelper{
 public static void Updatecontact(Map<ID,Account> mapaccts)
 {
